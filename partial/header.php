@@ -76,9 +76,10 @@
                             <i class="fa fa-user" aria-hidden="true"></i>
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#"><i class="fa fa-cog" aria-hidden="true"></i> Settings</a>
+                            <a class="dropdown-item" href="settings.php"><i class="fa fa-cog" aria-hidden="true"></i> Settings</a>
+                            <a class="dropdown-item" href="user.php"><i class="fa fa-cog" aria-hidden="true"></i>Add User</a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#"><i class="fa fa-sign-out" aria-hidden="true"></i> Logout</a>
+                            <a class="dropdown-item" href="index.php"><i class="fa fa-sign-out" aria-hidden="true"></i> Logout</a>
                         </div>
                     </li>
                 </ul>
